@@ -7,6 +7,7 @@
 - Parece que las parroquias urbanas (es decir, parte de la ciudad) no tienen autonomía. Las parroquias rurales están gobernadas por un consejo parroquial electo (a veces con un sitio web).
 - Quito es tanto el Distrito Metropolitano como la capital de la provincia de Pichincha.
 - El nombre del cantón puede diferir de la sede cantonal (sede de la ciudad del municipio).
+- La **instancia legal** que asigna nombres a las carreteras son los cantones.
 
 # Licencia
 [Licencia CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.es).
