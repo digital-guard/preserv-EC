@@ -1,6 +1,9 @@
 # Digital-preservation-EC
 [Preservación digital](https://en.wikipedia.org/wiki/Digital_preservation) de las principales fuentes de la **base de datos AddressForAll-Ecuador**, mantenida por el [Instituto AddressForAll](http://addressforall.org/).
 
+A Ecuador se le asignó: en el contexto ISO&nbsp;3166&#8209;2 el geocódigo **EC** y el número **218**; en Wikidata el identificador [Q736](http://wikidata.org/entity/Q736); en OpenStreetMap el identificador de [*relación* 108089](http://osm.org/relation/108089).
+
+
 # Organización territorial
 El territorio nacional y sus subdivisiones representam **jurisdiciones**:
 
