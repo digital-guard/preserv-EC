@@ -1,0 +1,20 @@
+pack_id: 1.1
+pkversion: 001
+schemaId_input:    ref027a
+schemaId_template: ref027a
+codec:descr_encode: srid=32717
+
+files:
+  -
+    p:    1
+    file: fbc62efdbd0f16a7db03b5b775c50c9425367a8dee8a85d9b53e4475bbdb99d2.zip
+    name: Endereços
+
+layers:
+
+  geoaddress:
+    subtype: full
+    method: shp2sql
+    file: 1
+    orig_filename: numeracion_casas_direccion/numeracion_casas_t_direcc
+
