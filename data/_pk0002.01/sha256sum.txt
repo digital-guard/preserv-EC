@@ -1,0 +1,1 @@
+1e9014a224dd457fdb88d2b151c00d3bb5d43b3ad0284b27240fbba0b2afbe96 *ecuador-latest.osm.pbf

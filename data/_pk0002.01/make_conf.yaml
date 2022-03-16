@@ -1,0 +1,31 @@
+pack_id: 2.1
+pkversion: 001
+schemaId_input:    ref027a
+schemaId_template: ref027a
+codec:descr_encode: srid=4326
+
+files:
+    -
+        p:    1
+        file: 1e9014a224dd457fdb88d2b151c00d3bb5d43b3ad0284b27240fbba0b2afbe96.pbf
+        name: Dados OpenStreetMap
+
+license_evidences:
+    definition: [ODbL-1.0, odbl, http://www.opendefinition.org/licenses/odc-odbl]
+    uri_evidency: http://web.archive.org/web/20220316111918/https://opendatacommons.org/licenses/odbl/
+
+layers:
+  geoaddress:
+    subtype: full
+    method: osm2sql
+    file: 1
+    orig_filename: ecuador-latest.osm.pbf
+  via:
+    subtype: full
+    method: osm2sql
+    file: 1
+    orig_filename: ecuador-latest.osm.pbf
+
+openstreetmap:
+    file: 1
+    method: none
