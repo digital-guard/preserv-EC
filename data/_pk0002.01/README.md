@@ -1,4 +1,4 @@
-## Dump OpensStreetMap Ecuador
+## Dump OpenStreetMap Ecuador
 Arquivos utilizados como fonte de dados principal deste repositório, e preservados nos repositórios do [Instituto AddressForAll](https://github.com/AddressForAll/preserv-PE). 
 O download destes arquivos em geral recebem o rótulo de `ecuador-latest.osm.pbf`. 
 A seguir o histórico e metadados das versões utilizadas, organizadas por data (ano-mês-dia).
