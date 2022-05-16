@@ -1,3 +1,3 @@
-pack_id,donor_id,pack_count,lst_vers,donor_label,user_resp,accepted_date,escopo,about,author,contentReferenceTime,license_is_explicit,license,uri_objType,uri,isAt_UrbiGIS,status,statusUpdateDate
+pack_id,donor_id,pack_count,lst_vers,donor_label,user_resp,accepted_date,scope,about,author,contentReferenceTime,license_is_explicit,license,uri_objType,uri,isAt_UrbiGIS,status,statusUpdateDate
 00101,1,1,001,EC-F-AZO,carlos,2022-03-15,EC-EC-F-Azogues,pontos de numeração de casa,(self),2022,no,CC-BY,email,email,-,-,-
 00201,2,1,001,OSM,claiton,2022-03-16,EC,"Planet OSM, todos os dados ",(self),2022-03-15,yes,ODbL,site,http://download.geofabrik.de/south-america/ecuador-latest.osm.pbf,no,working-makefile,
