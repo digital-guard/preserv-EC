@@ -1,0 +1,7 @@
+osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
+114042,218,2450110,Bolívar,C,,2450110,bolivar,EC-C-Bolivar,,"{""area_sr"": 0.02896, ""area_km2"": 356, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 18.9, ""side_estim_deg"": 0.1702, ""elongation_factor"": 1.89}"
+114047,218,733734,Espejo,C,,733734,espejo,EC-C-Espejo,,"{""area_sr"": 0.044, ""area_km2"": 542, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 23.3, ""side_estim_deg"": 0.2098, ""elongation_factor"": 2.21}"
+114046,218,2448888,Mira,C,,2448888,mira,EC-C-Mira,,"{""area_sr"": 0.0484, ""area_km2"": 596, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 24.4, ""side_estim_deg"": 0.22, ""elongation_factor"": 3.54}"
+114043,218,2448812,Montúfar,C,,2448812,montufar,EC-C-Montufar,,"{""area_sr"": 0.03108, ""area_km2"": 383, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 19.6, ""side_estim_deg"": 0.1763, ""elongation_factor"": 2.06}"
+114044,218,509765,"San Pedro de Huaca",C,,509765,san.pedro.huaca,EC-C-SanPedroHuaca,,"{""area_sr"": 0.00577, ""area_km2"": 71, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 8.4, ""side_estim_deg"": 0.076, ""elongation_factor"": 2.16}"
+114045,218,774988,Tulcán,C,,774988,tulcan,EC-C-Tulcan,,"{""area_sr"": 0.14862, ""area_km2"": 1829, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 42.8, ""side_estim_deg"": 0.3855, ""elongation_factor"": 3.86}"

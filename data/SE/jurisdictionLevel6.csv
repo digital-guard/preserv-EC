@@ -1,0 +1,4 @@
+osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
+109439,218,3656089,"La Libertad",SE,,3656089,la.libertad,EC-SE-LaLibertad,,"{""area_sr"": 0.00237, ""area_km2"": 29, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 5.4, ""side_estim_deg"": 0.0487, ""elongation_factor"": 1.84}"
+109438,218,1992844,Salinas,SE,,1992844,salinas,EC-SE-Salinas,,"{""area_sr"": 0.00557, ""area_km2"": 69, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 8.3, ""side_estim_deg"": 0.0746, ""elongation_factor"": 3.07}"
+109440,218,1992974,"Santa Elena",SE,,1992974,santa.elena,EC-SE-SantaElena,,"{""area_sr"": 0.2956, ""area_km2"": 3636, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 60.3, ""side_estim_deg"": 0.5437, ""elongation_factor"": 1.77}"

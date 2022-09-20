@@ -1,0 +1,6 @@
+osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
+114273,218,2448757,Archidona,N,,2448757,archidona,EC-N-Archidona,,"{""area_sr"": 0.24533, ""area_km2"": 3020, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 55, ""side_estim_deg"": 0.4953, ""elongation_factor"": 2.36}"
+114271,218,3655963,"Cantón Carlos Julio Arosemena Tola",N,,3655963,canton.carlos.julio.arosemena.tola,EC-N-CantonCarlosJulioArosemenaTola,,"{""area_sr"": 0.03991, ""area_km2"": 491, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 22.2, ""side_estim_deg"": 0.1998, ""elongation_factor"": 2.2}"
+114275,218,1989394,"Cantón El Chaco",N,,1989394,canton.chaco,EC-N-CantonChaco,,"{""area_sr"": 0.28433, ""area_km2"": 3500, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 59.2, ""side_estim_deg"": 0.5332, ""elongation_factor"": 2.21}"
+229594,218,1989112,"Cantón Quijos",N,,1989112,canton.quijos,EC-N-CantonQuijos,,"{""area_sr"": 0.1284, ""area_km2"": 1580, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 39.8, ""side_estim_deg"": 0.3583, ""elongation_factor"": 2.22}"
+114272,218,2448860,Tena,N,,2448860,tena,EC-N-Tena,,"{""area_sr"": 0.31765, ""area_km2"": 3909, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 62.5, ""side_estim_deg"": 0.5636, ""elongation_factor"": 3.54}"

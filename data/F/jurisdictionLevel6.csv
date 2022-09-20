@@ -1,0 +1,8 @@
+osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
+108718,218,1990037,Azogues,F,,1990037,azogues,EC-F-Azogues,,"{""area_sr"": 0.04959, ""area_km2"": 610, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 24.7, ""side_estim_deg"": 0.2227, ""elongation_factor"": 2.59}"
+108716,218,1529187,Biblian,F,,1529187,biblian,EC-F-Biblian,,"{""area_sr"": 0.01855, ""area_km2"": 228, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 15.1, ""side_estim_deg"": 0.1362, ""elongation_factor"": 2.26}"
+108714,218,2466588,"Cantón Suscal",F,,2466588,canton.suscal,EC-F-CantonSuscal,,"{""area_sr"": 0.00407, ""area_km2"": 50, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 7.1, ""side_estim_deg"": 0.0638, ""elongation_factor"": 1.56}"
+919715,218,2466578,Cañar,F,,2466578,canar,EC-F-Canar,,"{""area_sr"": 0.15143, ""area_km2"": 1862, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 43.2, ""side_estim_deg"": 0.3891, ""elongation_factor"": 2.85}"
+108717,218,2466518,Deleg,F,,2466518,deleg,EC-F-Deleg,,"{""area_sr"": 0.00609, ""area_km2"": 75, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 8.7, ""side_estim_deg"": 0.0781, ""elongation_factor"": 1.9}"
+108715,218,2466637,"El Tambo",F,,2466637,el.tambo,EC-F-ElTambo,,"{""area_sr"": 0.00524, ""area_km2"": 64, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 8, ""side_estim_deg"": 0.0724, ""elongation_factor"": 2.26}"
+108713,218,2466495,"La Troncal",F,,2466495,la.troncal,EC-F-LaTroncal,,"{""area_sr"": 0.02585, ""area_km2"": 318, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 17.8, ""side_estim_deg"": 0.1608, ""elongation_factor"": 2.1}"

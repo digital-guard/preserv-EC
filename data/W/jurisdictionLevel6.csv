@@ -1,0 +1,4 @@
+osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
+1640266,218,14920554,"Cantón Isabela",W,,14920554,canton.isabela,EC-W-CantonIsabela,,"{""area_sr"": 2.71749, ""area_km2"": 33446, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 182.9, ""side_estim_deg"": 1.6485, ""elongation_factor"": 1.73}"
+2677049,218,14920555,"Cantón San Cristóbal",W,,14920555,canton.san.cristobal,EC-W-CantonSanCristobal,,"{""area_sr"": 1.93663, ""area_km2"": 23835, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 154.4, ""side_estim_deg"": 1.3916, ""elongation_factor"": 1.55}"
+2677050,218,3632781,"Cantón Santa Cruz",W,,3632781,canton.santa.cruz,EC-W-CantonSantaCruz,,"{""area_sr"": 1.68885, ""area_km2"": 20788, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 144.2, ""side_estim_deg"": 1.2996, ""elongation_factor"": 1.19}"

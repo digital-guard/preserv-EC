@@ -1,0 +1,9 @@
+osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
+113715,218,4504255,"Cantón Pedro Moncayo",P,,4504255,canton.pedro.moncayo,EC-P-CantonPedroMoncayo,,"{""area_sr"": 0.02748, ""area_km2"": 338, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 18.4, ""side_estim_deg"": 0.1658, ""elongation_factor"": 1.95}"
+113716,218,1990489,Cayambe,P,,1990489,cayambe,EC-P-Cayambe,,"{""area_sr"": 0.097, ""area_km2"": 1194, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 34.6, ""side_estim_deg"": 0.3114, ""elongation_factor"": 2.23}"
+113712,218,1990543,Machachi,P,,1990543,machachi,EC-P-Machachi,,"{""area_sr"": 0.12016, ""area_km2"": 1479, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 38.5, ""side_estim_deg"": 0.3466, ""elongation_factor"": 2.38}"
+113718,218,1992916,"Pedro Vicente Maldonado",P,,1992916,pedro.vicente.maldonado,EC-P-PedroVicenteMaldonado,,"{""area_sr"": 0.05078, ""area_km2"": 625, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 25, ""side_estim_deg"": 0.2253, ""elongation_factor"": 1.82}"
+113719,218,1992955,"Puerto Quito",P,,1992955,puerto.quito,EC-P-PuertoQuito,,"{""area_sr"": 0.05666, ""area_km2"": 697, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 26.4, ""side_estim_deg"": 0.238, ""elongation_factor"": 2.18}"
+113714,218,2466472,Quito,P,,2466472,quito,EC-P-Quito,,"{""area_sr"": 0.34216, ""area_km2"": 4212, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 64.9, ""side_estim_deg"": 0.5849, ""elongation_factor"": 2.7}"
+113717,218,1992514,"San Miguel de Los Bancos",P,,1992514,san.miguel.bancos,EC-P-SanMiguelBancos,,"{""area_sr"": 0.06894, ""area_km2"": 849, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 29.1, ""side_estim_deg"": 0.2626, ""elongation_factor"": 2.62}"
+113713,218,1990505,Sangolqui,P,,1990505,sangolqui,EC-P-Sangolqui,,"{""area_sr"": 0.01101, ""area_km2"": 136, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 11.6, ""side_estim_deg"": 0.1049, ""elongation_factor"": 2.07}"
