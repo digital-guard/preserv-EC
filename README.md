@@ -1,7 +1,7 @@
 # preserv-EC
 [Preservación digital](https://en.wikipedia.org/wiki/Digital_preservation) de las principales fuentes de la **base de datos AddressForAll-Ecuador**, mantenida por el [Instituto AddressForAll](http://addressforall.org/).
 
-A Ecuador se le asignó: en el contexto [ISO&nbsp;3166](https://en.wikipedia.org/wiki/ISO_3166) el geocódigo [**EC**](https://en.wikipedia.org/wiki/ISO_3166-2:EC) y el número [**218**](https://en.wikipedia.org/wiki/ISO_3166-1_numeric); en [Wikidata](http://Wikidata.org) el identificador [Q736](http://wikidata.org/entity/Q736); en OpenStreetMap el identificador de [*relación* 108089](http://osm.org/relation/108089).
+A Ecuador se le asignó: en el contexto [ISO&nbsp;3166](https://en.wikipedia.org/wiki/ISO_3166) el geocódigo [**EC**](https://en.wikipedia.org/wiki/ISO_3166-2:EC) y el número [**218**](https://en.wikipedia.org/wiki/ISO_3166-1_numeric); en [Wikidata](https://wikidata.org) el identificador [Q736](http://wikidata.org/entity/Q736); en [OpenStreetMap](https://osm.org) el identificador de [*relación* 108089](http://osm.org/relation/108089).
 
 
 ## Organización territorial
