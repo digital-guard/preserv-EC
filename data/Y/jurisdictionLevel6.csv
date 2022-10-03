@@ -1,5 +1,5 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-113867,218,1990448,Arajuno,Y,,1990448,arajuno,EC-Y-Arajuno,,"{""area_sr"": 0.71643, ""area_km2"": 8816, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 93.9, ""side_estim_deg"": 0.8464, ""elongation_factor"": 3.62}"
-113866,218,1992910,"Cantón Santa Clara",Y,,1992910,canton.santa.clara,EC-Y-CantonSantaClara,,"{""area_sr"": 0.02625, ""area_km2"": 323, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 18, ""side_estim_deg"": 0.162, ""elongation_factor"": 2.13}"
-113865,218,1992979,Mera,Y,,1992979,mera,EC-Y-Mera,,"{""area_sr"": 0.04312, ""area_km2"": 531, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 23, ""side_estim_deg"": 0.2077, ""elongation_factor"": 2.89}"
-2678135,218,1990439,Pastaza,Y,,1990439,pastaza,EC-Y-Pastaza,,"{""area_sr"": 1.61475, ""area_km2"": 19865, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 140.9, ""side_estim_deg"": 1.2707, ""elongation_factor"": 2.29}"
+113867,218,1990448,Arajuno,Y,,1990448,arajuno,EC-Y-Arajuno,,"{""area_sr"": 0.71643, ""area_km2"": 8816, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 93.9, ""side_estim_deg"": 0.8464, ""elongation_factor"": 3.85}"
+113866,218,1992910,"Cantón Santa Clara",Y,,1992910,canton.santa.clara,EC-Y-CantonSantaClara,,"{""area_sr"": 0.02625, ""area_km2"": 323, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 18, ""side_estim_deg"": 0.162, ""elongation_factor"": 2.17}"
+113865,218,1992979,Mera,Y,,1992979,mera,EC-Y-Mera,,"{""area_sr"": 0.04312, ""area_km2"": 531, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 23, ""side_estim_deg"": 0.2077, ""elongation_factor"": 2.92}"
+2678135,218,1990439,Pastaza,Y,,1990439,pastaza,EC-Y-Pastaza,,"{""area_sr"": 1.61475, ""area_km2"": 19865, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 140.9, ""side_estim_deg"": 1.2707, ""elongation_factor"": 2.4}"

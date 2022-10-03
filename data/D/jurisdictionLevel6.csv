@@ -1,5 +1,5 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-114241,218,2466482,Aguarico,D,,2466482,aguarico,EC-D-Aguarico,,"{""area_sr"": 0.91014, ""area_km2"": 11201, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 105.8, ""side_estim_deg"": 0.954, ""elongation_factor"": 2.17}"
-114242,218,1992935,"Francisco de Orellana",D,,1992935,francisco.orellana,EC-D-FranciscoOrellana,,"{""area_sr"": 0.57392, ""area_km2"": 7064, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 84, ""side_estim_deg"": 0.7576, ""elongation_factor"": 2.76}"
-114243,218,1992899,"Joya de los Sachas",D,,1992899,joya.sachas,EC-D-JoyaSachas,,"{""area_sr"": 0.09674, ""area_km2"": 1191, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 34.5, ""side_estim_deg"": 0.311, ""elongation_factor"": 2.09}"
-114244,218,3586431,Loreto,D,,3586431,loreto,EC-D-Loreto,,"{""area_sr"": 0.17443, ""area_km2"": 2147, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 46.3, ""side_estim_deg"": 0.4176, ""elongation_factor"": 2.08}"
+114241,218,2466482,Aguarico,D,,2466482,aguarico,EC-D-Aguarico,,"{""area_sr"": 0.91014, ""area_km2"": 11201, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 105.8, ""side_estim_deg"": 0.954, ""elongation_factor"": 2.32}"
+114242,218,1992935,"Francisco de Orellana",D,,1992935,francisco.orellana,EC-D-FranciscoOrellana,,"{""area_sr"": 0.57392, ""area_km2"": 7064, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 84, ""side_estim_deg"": 0.7576, ""elongation_factor"": 2.89}"
+114243,218,1992899,"Joya de los Sachas",D,,1992899,joya.sachas,EC-D-JoyaSachas,,"{""area_sr"": 0.09674, ""area_km2"": 1191, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 34.5, ""side_estim_deg"": 0.311, ""elongation_factor"": 2.24}"
+114244,218,3586431,Loreto,D,,3586431,loreto,EC-D-Loreto,,"{""area_sr"": 0.17443, ""area_km2"": 2147, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 46.3, ""side_estim_deg"": 0.4176, ""elongation_factor"": 2.14}"
