@@ -8,6 +8,6 @@ Recebemos 1 arquivo em 2021-07-05, chamado `numeracion_casas_t_direcc`. Ele est√
 
 `SRID`: 32717
 
--`numero` = `house_number`
+-`numero` = `hnum`
 
 -`calle` = `via`
