@@ -18,4 +18,12 @@ layers:
     file: 1
     sql_select: ['gid', 'numero AS hnum', 'calle as via', 'geom']
     orig_filename: numeracion_casas_direccion/numeracion_casas_t_direcc
+    standardized_fields:
+     -
+      name: numero
+      standard: hnum
+     -
+      name: calle
+      standard: via
+test_evidence: qgis.png
 
