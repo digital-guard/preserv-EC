@@ -11,7 +11,7 @@ Obtido via <i>email</i> em <b>15/03/2022</b> por:
 <br/>&nbsp; Representação institucional: <a rel="external" target="_gitPerson" title="Usuario de" href="https://github.com/ThierryAJean">ThierryAJean</a><br/>
 </td></tr>
 <tr><td>Camadas: <a title="geoaddress" href="#-geoaddress"><img src="https://raw.githubusercontent.com/digital-guard/preserv/main/docs/assets/layerIcon-geoaddress.png" alt="geoaddress" width="20"/></a> </td></tr>
-<tr><td>Datos publicados en <a href="https://git.digital-guard.org/preservCutGeo-EC2021/tree/main/data/F/Azogues/_pk0001.01">preservCutGeo-CO2021</a><br/><a href="#reproducibilidad">Reproducible</a></td></tr>
+<tr><td>Datos publicados en <a href="https://git.digital-guard.org/preservCutGeo-EC2021/tree/main/data/F/Azogues/_pk0001.01">preservCutGeo-EC2021</a><br/><a href="#reproducibilidad">Reproducible</a></td></tr>
 <tr><td>Visualización: <a title="geoaddress" href="https://viz.addressforall.org/EC-F-Azogues/_pk0001.01/geoaddress"><img src="https://raw.githubusercontent.com/digital-guard/preserv/main/docs/assets/layerIcon-geoaddress.png" alt="geoaddress" width="20"/></a> </td></tr>
 </table>
 </aside>
