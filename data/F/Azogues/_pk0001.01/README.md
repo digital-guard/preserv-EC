@@ -38,6 +38,9 @@ Nombre del archivo: `numeracion_casas_direccion/numeracion_casas_t_direcc`<br/>*
 #### Filtrado de resultados y su publicación
 249113 bytes (0.24 <abbr title="mebibyte">MiB</abbr>)<br/>4720 pontos<br/>densidad media: 210.72 pontos/km²<br/>GeoJSONs publicados em [https://git.digital-guard.org/preservCutGeo-EC2021/tree/main/data/F/Azogues/_pk0001.01/geoaddress](https://git.digital-guard.org/preservCutGeo-EC2021/tree/main/data/F/Azogues/_pk0001.01/geoaddress)
 
+#### Visualización
+[https://viz.addressforall.org/EC-F-Azogues/_pk0001.01/geoaddress](https://viz.addressforall.org/EC-F-Azogues/_pk0001.01/geoaddress)
+
 # Evidencia de prueba
 <img src="qgis.png" width="400"/>
 
