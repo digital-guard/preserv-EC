@@ -11,7 +11,7 @@ rm -rf /tmp/sandbox/_pk21800000101_001 || true
 mkdir -m 777 -p /tmp/sandbox
 mkdir -m 777 -p /tmp/sandbox/_pk21800000101_001
 mkdir -p /tmp/pg_io
-wget -P /var/www/dl.digital-guard.org http://dl.digital-guard.org/77329f34a71ed1dcf470ac74a96b5a93ee27245060b5980a1153a6bd81e2e7ea.zip
+wget -P /var/www/dl.digital-guard.org https://dl.digital-guard.org/77329f34a71ed1dcf470ac74a96b5a93ee27245060b5980a1153a6bd81e2e7ea.zip
 sudo chown postgres:www-data /var/www/dl.digital-guard.org/77329f34a71ed1dcf470ac74a96b5a93ee27245060b5980a1153a6bd81e2e7ea.zip && sudo chmod 664 /var/www/dl.digital-guard.org/77329f34a71ed1dcf470ac74a96b5a93ee27245060b5980a1153a6bd81e2e7ea.zip
 psql postgres://postgres@localhost/ingest1 -c "DROP  TABLE IF EXISTS pk21800000101101_p1_geoaddress CASCADE"
 cd /tmp/sandbox/_pk21800000101_001; 7z  x -y /var/www/dl.digital-guard.org/77329f34a71ed1dcf470ac74a96b5a93ee27245060b5980a1153a6bd81e2e7ea.zip "*numeracion_casas_direccion/numeracion_casas_t_direcc*" ; chmod -R a+rwx . > /dev/null
